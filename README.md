@@ -1,7 +1,10 @@
 # Hardware Portfolio — Ainara Gurtubay
 
-## 👋 About ME
-Telecommunications Engineering Master's graduate specializing in **hardware design**, **RF systems**, and **embedded electronics**. Passionate about developing robust, innovative hardware solutions from concept to validation.
+## 👋 Hi!
+Hi! I’m Ainara Gurtubay, a hardware engineer pursuing a dual Master’s degree in **Telecommunications (Spain)** and **Electrical Engineering (USA)**.
+
+I specialize in **PCB design, embedded systems, and RF hardware**, with hands-on experience in  
+multilayer board design, FPGA prototyping, EMI/EMC mitigation, and mission-critical avionics.
 
 ---
 
