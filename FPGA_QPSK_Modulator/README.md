@@ -2,6 +2,7 @@
 
 **Role:** Digital hardware and embedded integration (custom IP, AXI interfaces).  
 **Platform / Tools:** Zedboard Zynq-7000, Xilinx Vivado, VHDL, ADAU1761 audio codec, DDS compilers, UART.  
+
 **What I did:** Designed and implemented a modular QPSK modulator IP, integrated with the processing system via AXI, and validated real-time symbol transmission through an audio codec and oscilloscope.
 
 **Highlights**
