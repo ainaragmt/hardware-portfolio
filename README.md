@@ -20,16 +20,16 @@ I specialize in **PCB design, embedded systems, and RF hardware**, with hands-on
 ## 📂 Projects in this Repository
 Each project folder includes a summary (`README.md`) and a full technical report (`report.pdf`).
 
-- [**QPSK Modulator on FPGA**]  
+- **QPSK Modulator on FPGA** 
   FPGA-based digital communications system on Zynq-7000 with AXI integration and real-time validation.  
 
-- [**500 MHz LNA Design**]
+- **500 MHz LNA Design**
   RF amplifier designed and optimized with ADS and Smith Chart analysis, validated with VNA measurements.  
 
-- [**Orion Deton — Rocketry Deployment System**]
+- **Orion Deton — Rocketry Deployment System**
   Safety-critical parachute deployment avionics module. Designed 4-layer PCB in Altium, implemented CAN bus, and validated in **flight missions (EuRoC 2024, Valkyrie 2025)**.  
 
-- [**Low-Power Optical Sensor**]  
+- **Low-Power Optical Sensor**
   Low-power optical circuit for precision turbine blade clearance sensing, showcasing analog design and measurement systems. 
 
 ---
