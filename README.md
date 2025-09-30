@@ -3,8 +3,7 @@
 ## 👋 Hi!
 Hi! I’m Ainara Gurtubay, a hardware engineer pursuing a dual Master’s degree in **Telecommunications (Spain)** and **Electrical Engineering (USA)**.
 
-I specialize in **PCB design, embedded systems, and RF hardware**, with hands-on experience in  
-multilayer board design, FPGA prototyping, EMI/EMC mitigation, and mission-critical avionics.
+I specialize in **PCB design, embedded systems, and RF hardware**, with hands-on experience in multilayer board design, FPGA prototyping, EMI/EMC mitigation, and mission-critical avionics.
 
 ---
 
